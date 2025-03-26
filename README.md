@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Mathis!  
 
-<!--
-**MathisDelobel/MathisDelobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate **Full-Stack Developer** exploring the world of **JavaScript** and **PHP**.  
 
-Here are some ideas to get you started:
+## 🔧 What I Enjoy Coding  
+- ⚡ **Backend**: REST APIs, microservices, 
+- ⚛️ **Frontend**: Interactive UIs with React and React Native  
+- 🛠️ **DevOps**: Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal  
+Always learning and experimenting with new technologies!  
+
+## 📫 Get in Touch  
+💼 [LinkedIn](https://www.linkedin.com/in/mathis-delobel-624a8b180)  
+📧 delobelmathis@gmail.com  
+
+🚀 **Curious and motivated**, always up for new challenges!  
