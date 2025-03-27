@@ -2,8 +2,8 @@
 
 💻 Passionate **Full-Stack Developer** exploring the world of **JavaScript** and **PHP**.  
 
-## 🔧 What I Enjoy Coding  
-- ⚡ **Backend**: REST APIs, microservices
+## 🔧 Stack  
+- ⚡ **Backend**: REST APIs, microservices with Node.js
 - ⚛️ **Frontend**: Interactive UIs with React and React Native  
 - 🛠️ **DevOps**: Docker, Linux
 
